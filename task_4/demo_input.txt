@@ -1,0 +1,6 @@
+hello
+add John 1234567890
+phone John
+change John 0987654321
+all
+exit
